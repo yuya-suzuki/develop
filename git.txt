@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 gaeiogjoaerjgoejrogjer
 adadccccccccccccccccccccccccccccccc
+=======
+﻿aafweofjweoijfeow
+test bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbadfawfew
+>>>>>>> feature/0.0.1
